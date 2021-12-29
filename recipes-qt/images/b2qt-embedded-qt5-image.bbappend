@@ -9,4 +9,5 @@ SUMMARY = "Image for the Ecosysteme"
 IMAGE_INSTALL += "\
     can-utils \
     libsocketcan \
+    udev-extraconf \
     "
